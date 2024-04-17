@@ -1,0 +1,6 @@
+.div-buttons{
+    display: flex;
+    width: 50vh;
+    align-items: center;
+    justify-content: space-around;
+}

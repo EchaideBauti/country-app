@@ -1,0 +1,17 @@
+.card_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center
+  }
+  
+.content-search{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+}
+.d-flex{
+  width: 80%;
+  
+}
